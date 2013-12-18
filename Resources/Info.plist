@@ -22,5 +22,9 @@
 			</array>
 		</dict>
 	</dict>
+		<key>UIDeviceFamily</key>
+		<array>
+			<integer>1</integer>
+		</array>
 </dict>
 </plist>
