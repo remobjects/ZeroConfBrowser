@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_1password</key>
+	<string>1Password</string>
+	<key>_acp-sync</key>
+	<string>Apple AirPort ACP Protocol</string>
+	<key>_afpovertcp</key>
+	<string>Apple File Sharing Protocol</string>
+	<key>_airfoilspeaker</key>
+	<string>Airfoil Speaker</string>
+	<key>_airplay</key>
+	<string>AirPlay</string>
+	<key>_airport</key>
+	<string>Apple Airport</string>
+	<key>_appletv</key>
+	<string>Apple TV (1st Generation)</string>
+	<key>_appletv-itunes</key>
+	<string>Apple TV iTunes</string>
+	<key>_appletv-v2</key>
+	<string>Apple TV (iOS)</string>
+	<key>_apple-mobdev</key>
+	<string>Apple Mobile Development Tools</string>
+	<key>_crossbox</key>
+	<string>RemObjects Elements CrossBox</string>
+	<key>_daap</key>
+	<string>iTunes Music Sharing</string>
+	<key>_dacp</key>
+	<string>iTunes Digital Audio Control Protocol</string>
+	<key>_growl</key>
+	<string>Growl</string>
+	<key>_home-sharing</key>
+	<string>iTunes Home Sharing</string>
+	<key>_http</key>
+	<string>HTTP Web Server</string>
+	<key>_ipp</key>
+	<string>Internet Printing Protocol</string>
+	<key>_istatrmt</key>
+	<string>iStat Remote Server</string>
+	<key>_merlinserver</key>
+	<string>Merlin Project Server</string>
+	<key>_odisk</key>
+	<string>Optical Disk Sharing</string>
+	<key>_pastebot_sync_client_1</key>
+	<string>PasteBot Sync Client</string>
+	<key>_pdl-datastream</key>
+	<string>Printer PDL Data Stream</string>
+	<key>_plexmediasvr</key>
+	<string>Plex Media Server</string>
+	<key>_presence</key>
+	<string>Jabber</string>
+	<key>_printer</key>
+	<string>Print Spooler</string>
+	<key>_raop</key>
+	<string>Remote Audio Output Protocol</string>
+	<key>_rfb</key>
+	<string>Remote Frame Buffer</string>
+	<key>_roku-rcp</key>
+	<string>Roku Soundbridge</string>
+	<key>_see</key>
+	<string>SubEthaEdit</string>
+	<key>_sftp-ssh</key>
+	<string>SFTP</string>
+	<key>_sleep-proxy</key>
+	<string>Bonjour Sleep Proxy</string>
+	<key>_textexpander</key>
+	<string>TextExpander</string>
+	<key>_smb</key>
+	<string>Samba File Sharing</string>
+	<key>_ssh</key>
+	<string>SSH</string>
+	<key>_telnet</key>
+	<string>Telnet</string>
+	<key>_touch-able</key>
+	<string>iTunes Remote Control</string>
+	<key>_xcodedistcc</key>
+	<string>Xcode Distributed Compiler</string>
+	<key>_PCTradeSampleServer_rosdk</key>
+	<string>Data Abstract PCTrade Sample</string>
+	<key>_Relativity_DataService_rosdk</key>
+	<string>Relativity Data Service</string>
+	<key>_Relativity_AdminService_rosdk</key>
+	<string>Relativity Admin Service</string>
+</dict>
+</plist>

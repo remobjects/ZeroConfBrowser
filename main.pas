@@ -1,0 +1,7 @@
+﻿namespace ;
+
+interface
+
+implementation
+
+end.
