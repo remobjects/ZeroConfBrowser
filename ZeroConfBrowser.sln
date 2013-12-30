@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# RemObjects Fire
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "ZeroConfBrowser", "ZeroConfBrowser.oxygene", "{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}"
 EndProject
 Global
@@ -9,10 +10,10 @@ Global
 		Release|AnyCPU = Release|AnyCPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
-		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
-		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
-		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Debug|AnyCPU.ActiveCfg = Debug
+		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Debug|AnyCPU.Build.0 = Debug
+		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Release|AnyCPU.ActiveCfg = Release
+		{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}.Release|AnyCPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

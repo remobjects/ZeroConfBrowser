@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build" ToolsVersion="4.0">
   <PropertyGroup>
     <RootNamespace>ZeroConfBrowser</RootNamespace>
@@ -29,6 +29,10 @@
     <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
     <CaptureConsoleOutput>False</CaptureConsoleOutput>
     <WarnOnCaseMismatch>True</WarnOnCaseMismatch>
+    <ProvisioningProfile>785BF885-D5EA-4F7F-B349-A41D78B9718A</ProvisioningProfile>
+    <ProvisioningProfileName>iOS Team Provisioning Profile: * [XKVT6FLBQE.*]</ProvisioningProfileName>
+    <CodesignCertificateName>iPhone Developer: marc hoffman (K2YTD84U6W)</CodesignCertificateName>
+    <Architecture>armv7;armv7s</Architecture>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <Optimize>true</Optimize>
@@ -42,6 +46,7 @@
     <ProvisioningProfile>FBADB74C-AB5C-4B87-A147-EA7214A12DB2</ProvisioningProfile>
     <CodesignCertificateName>iPhone Distribution: RemObjects Software</CodesignCertificateName>
     <ProvisioningProfileName>RemObjects App Store Provision Profile 2014</ProvisioningProfileName>
+    <Architecture>armv7;armv7s</Architecture>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CoreGraphics.fx" />
