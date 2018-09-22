@@ -29,7 +29,7 @@
     <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
     <CaptureConsoleOutput>False</CaptureConsoleOutput>
     <WarnOnCaseMismatch>True</WarnOnCaseMismatch>
-    <ProvisioningProfile>785BF885-D5EA-4F7F-B349-A41D78B9718A</ProvisioningProfile>
+    <ProvisioningProfile>D2833049-9963-4E12-83D7-D6852E18C20C</ProvisioningProfile>
     <ProvisioningProfileName>iOS Team Provisioning Profile: * [XKVT6FLBQE.*]</ProvisioningProfileName>
     <CodesignCertificateName>iPhone Developer: marc hoffman (K2YTD84U6W)</CodesignCertificateName>
     <Architecture>armv7;armv7s</Architecture>
@@ -46,7 +46,6 @@
     <ProvisioningProfile>FBADB74C-AB5C-4B87-A147-EA7214A12DB2</ProvisioningProfile>
     <CodesignCertificateName>iPhone Distribution: RemObjects Software</CodesignCertificateName>
     <ProvisioningProfileName>RemObjects App Store Provision Profile 2014</ProvisioningProfileName>
-    <Architecture>armv7;armv7s</Architecture>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CoreGraphics.fx" />
