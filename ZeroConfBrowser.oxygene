@@ -2,7 +2,7 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build" ToolsVersion="4.0">
   <PropertyGroup>
     <RootNamespace>ZeroConfBrowser</RootNamespace>
-    <ProjectGuid>711B68E0-44F7-4AE7-AFE7-2E975C3626D8</ProjectGuid>
+    <ProjectGuid>{711B68E0-44F7-4AE7-AFE7-2E975C3626D8}</ProjectGuid>
     <OutputType>Executable</OutputType>
     <AssemblyName>ZeroConfBrowser</AssemblyName>
     <AllowGlobals>False</AllowGlobals>
@@ -14,11 +14,8 @@
     <SDK>iOS</SDK>
     <CreateAppBundle>True</CreateAppBundle>
     <InfoPListFile>.\Resources\Info.plist</InfoPListFile>
-    <DefaultUses />
-    <StartupClass />
     <CreateHeaderFile>False</CreateHeaderFile>
     <BundleIdentifier>com.remobjects.develop.rozeroconf</BundleIdentifier>
-    <BundleExtension />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <Optimize>false</Optimize>
@@ -48,11 +45,11 @@
     <ProvisioningProfileName>RemObjects App Store Provision Profile 2014</ProvisioningProfileName>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CoreGraphics.fx" />
-    <Reference Include="Foundation.fx" />
-    <Reference Include="UIKit.fx" />
-    <Reference Include="rtl.fx" />
-    <Reference Include="libNougat.fx" />
+    <Reference Include="CoreGraphics" />
+    <Reference Include="Foundation" />
+    <Reference Include="UIKit" />
+    <Reference Include="rtl" />
+    <Reference Include="libToffee" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.pas" />
@@ -96,7 +93,7 @@
     <Folder Include="Resources\Launch Images\" />
     <Folder Include="Resources\Services\" />
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\RemObjects Software\Oxygene\RemObjects.Oxygene.Nougat.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\RemObjects Software\Oxygene\RemObjects.Elements.Toffee.targets" />
   <PropertyGroup>
     <PreBuildEvent />
   </PropertyGroup>
